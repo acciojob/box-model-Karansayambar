@@ -10,7 +10,7 @@
 	justify-content:center;
 	gap:5px;
 }
-#green{
+.green{
 	border-radius:50%;
 	height:100px;
 	width:100px;
@@ -18,7 +18,7 @@
 	border:none;
 	display:inline;
 }
-#yellow{
+.yellow{
 	border-radius:50%;
 	height:100px;
 	width:100px;
@@ -26,7 +26,7 @@
 	border:none;
 	display:inline;
 }
-#red{
+.red{
 	border-radius:50%;
 	height:100px;
 	width:100px;
