@@ -1,11 +1,10 @@
 /*  your css code here. If applicable */
-div{
-	height:150px;
-	width:400px;
+.container{
 	text-align:center;
 	border: 5px solid black;
 	border-radius:30px;
 	background-color:lightgray;
+	padding: 50px;
 	display:flex;
 	align-items:center;
 	justify-content:center;
